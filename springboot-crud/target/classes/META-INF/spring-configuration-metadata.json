@@ -1,0 +1,17 @@
+{
+  "groups": [
+    {
+      "name": "server",
+      "type": "com.joey.springboot.model.Config",
+      "sourceType": "com.joey.springboot.model.Config"
+    }
+  ],
+  "properties": [
+    {
+      "name": "server.port",
+      "type": "java.lang.String",
+      "sourceType": "com.joey.springboot.model.Config"
+    }
+  ],
+  "hints": []
+}
